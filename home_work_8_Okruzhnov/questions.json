@@ -1,0 +1,21 @@
+[{
+    "question_text": "How many days do we have in a week?",
+    "question_complex": "1",
+    "correct_answer": "7"
+}, {
+    "question_text": "How many letters are there in the English alphabet?",
+    "question_complex": "3",
+    "correct_answer": "26"
+}, {
+    "question_text": "How many sides are there in a triangle?",
+    "question_complex": "2",
+    "correct_answer": "3"
+}, {
+    "question_text": "How many years are there in one Millennium?",
+    "question_complex": "2",
+    "correct_answer": "1000"
+}, {
+    "question_text": "How many sides does hexagon have?",
+    "question_complex": "4",
+    "correct_answer": "6"
+}]
